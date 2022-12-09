@@ -1,0 +1,2 @@
+C:\Users\berhan\Desktop\ce103hw320222023muhammedberhankokum\ce103hw3\ce103hw3librarysetup\bin\Debug\ce103hw3librarysetup.msi
+C:\Users\berhan\Desktop\ce103hw320222023muhammedberhankokum\ce103hw3\ce103hw3librarysetup\bin\Debug\ce103hw3librarysetup.wixpdb

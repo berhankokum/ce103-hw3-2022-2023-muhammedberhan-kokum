@@ -1,0 +1,3 @@
+..\ce103hw3ibraryapp\bin\\Debug\ce103hw3ibraryapp.exe
+..\ce103hw3ibraryapp\bin\\Debug\ce103hw3ibraryapp.exe.config
+..\ce103hw3ibraryapp\bin\\Debug\ce103hw3librarylib.dll

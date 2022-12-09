@@ -1,0 +1,6 @@
+obj\Debug\Product.wixobj
+C:\Users\berhan\Desktop\ce103hw320222023muhammedberhankokum\ce103hw3\ce103hw3librarysetup\bin\Debug\ce103hw3librarysetup.msi
+C:\Users\berhan\Desktop\ce103hw320222023muhammedberhankokum\ce103hw3\ce103hw3librarysetup\bin\Debug\ce103hw3librarysetup.wixpdb
+obj\Debug\ce103hw3librarysetup.wixproj.BindContentsFileListnull.txt
+obj\Debug\ce103hw3librarysetup.wixproj.BindOutputsFileListnull.txt
+obj\Debug\ce103hw3librarysetup.wixproj.BindBuiltOutputsFileListnull.txt
